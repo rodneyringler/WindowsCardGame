@@ -1,0 +1,33 @@
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\bin\Debug\CardGame.exe.config
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\bin\Debug\CardGame.exe
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\bin\Debug\CardGame.pdb
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\bin\Debug\CommonClasses.dll
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\bin\Debug\CommonClasses.pdb
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.Cache
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\obj\Debug\CardGame.exe
+c:\users\lv2107.lab\documents\visual studio 2013\Projects\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\bin\Debug\CommonClasses.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\bin\Debug\CommonClasses.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CardGame\obj\Debug\CardGame.pdb
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\bin\Debug\CommonClasses.dll
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\bin\Debug\CommonClasses.pdb
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.Cache
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CardGame\obj\Debug\CardGame.pdb

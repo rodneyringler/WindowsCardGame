@@ -1,0 +1,24 @@
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\bin\Debug\PokerGame.exe.config
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.csprojResolveAssemblyReference.cache
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.Properties.Resources.resources
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.csproj.GenerateResource.Cache
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\bin\Debug\PokerGame.exe
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\bin\Debug\PokerGame.pdb
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\bin\Debug\CommonClasses.dll
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\bin\Debug\CommonClasses.pdb
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.Form1.resources
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.exe
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.pdb
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\bin\Debug\PokerGame.exe.config
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\bin\Debug\PokerGame.exe
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\bin\Debug\PokerGame.pdb
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\bin\Debug\CommonClasses.dll
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\bin\Debug\CommonClasses.pdb
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.csprojResolveAssemblyReference.cache
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.Form1.resources
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.Properties.Resources.resources
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.csproj.GenerateResource.cache
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.csproj.CoreCompileInputs.cache
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.csproj.CopyComplete
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.exe
+Z:\Projects\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\PokerGame\obj\Debug\PokerGame.pdb

@@ -1,0 +1,14 @@
+c:\Users\lv2107.LAB\documents\visual studio 2013\Projects\CardGame\CommonClasses\bin\Debug\CommonClasses.dll
+c:\Users\lv2107.LAB\documents\visual studio 2013\Projects\CardGame\CommonClasses\bin\Debug\CommonClasses.pdb
+c:\Users\lv2107.LAB\documents\visual studio 2013\Projects\CardGame\CommonClasses\obj\Debug\CommonClasses.csprojResolveAssemblyReference.cache
+c:\Users\lv2107.LAB\documents\visual studio 2013\Projects\CardGame\CommonClasses\obj\Debug\CommonClasses.dll
+c:\Users\lv2107.LAB\documents\visual studio 2013\Projects\CardGame\CommonClasses\obj\Debug\CommonClasses.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CommonClasses\bin\Debug\CommonClasses.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CommonClasses\bin\Debug\CommonClasses.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CommonClasses\obj\Debug\CommonClasses.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\Dev\CardGame\CommonClasses\obj\Debug\CommonClasses.pdb
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CommonClasses\bin\Debug\CommonClasses.dll
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CommonClasses\bin\Debug\CommonClasses.pdb
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CommonClasses\obj\Debug\CommonClasses.dll
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CommonClasses\obj\Debug\CommonClasses.pdb
+C:\Users\rer1\Google Drive\cpcc\ReachIT\2015Fall\testcardgame\CardGame\CardGame\CommonClasses\obj\Debug\CommonClasses.csprojResolveAssemblyReference.cache
